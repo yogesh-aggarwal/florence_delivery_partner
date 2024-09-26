@@ -1,4 +1,4 @@
-import 'package:florence_delivery_partner/pages/home.dart';
+import 'package:florence_delivery_partner/pages/home/home.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:pair/pair.dart';
 
